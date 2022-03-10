@@ -1,6 +1,6 @@
 # FDBMS_Projects
 ## Project -1 Customer Relationship Management System (Top-Down Approach)
-### Breif  
+### Brief  
 The CRM database contains all the customer-related information like - Name, Age, Gender, Item Purchased, Email, Mobile number and many other such columns. This database helps an organisation in developing a whole customer life-cycle for a given product or service, helps the organisation stay connected with its customers. This database helps in lead generation and approaching potential repeat purchasers for a product or service. A typical CRM DBS will contain tables for Employees, Customers, Products, Stores, Service Centres.
 ### ER Diagram
 ![ERD_A](https://user-images.githubusercontent.com/93213994/157722872-b147dbab-2156-4752-9e60-16a7ed7096a5.jpg)
@@ -10,7 +10,7 @@ Project A.sql- Contains all the mysql codes which were used to obtain the tables
 Project A_workbench.mwb- Contains the ER diagram of the tables of the database.
 ######
 ## Project-2 Railway Reservation Form (Bottom-Up Approach)
-### Breif
+### Brief
 A railway reservation form is still a prevalent means of booking tickets as the railways as more reach to the remote parts of the country than the internet. Generally, a reservation form consists of the following information-
 a.if a Medical Practioner
 b.Train No & Name
